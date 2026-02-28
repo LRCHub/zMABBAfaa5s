@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嫌いにさせて - Make me hate you",
+  "base_artist": "Kotoha",
+  "createdAt": "2026-02-28T04:37:59.423947Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嫌いにさせて",
+      "artist": "Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_嫌いにさせて_Kotoha.txt"
+    }
+  ]
+}
